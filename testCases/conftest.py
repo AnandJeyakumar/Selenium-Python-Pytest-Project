@@ -34,15 +34,15 @@ def browser(request):  # This will retrun the Browser value to set up method
     return request.config.getoption("--browser")
 
 
-######################PyTest HTML Report#####################
+######################PyTest HTML reports#####################
 
-###It is hook for adding environment info to HTML Report
+###It is hook for adding environment info to HTML reports
 # def pytest_configure(config):
 #     config.metadata['Project Name'] = 'nop commerce'
 #     config.metadata['Module Name'] = 'Customers'
 #     config.metadata['Tester'] = 'Anand'
 
-###It is hook for Delete/Modify environment info to HTML Report
+###It is hook for Delete/Modify environment info to HTML reports
 
 # @pytest.mark.optionalhook
 # def pytest_metadata(metadata):

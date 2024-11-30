@@ -6,6 +6,7 @@ class LoginPage:
     textbox_password_id = "Password"
     button_login_xpath= "//button[@type='submit']"
     link_logout_linktext = 'Logout'
+    errorText_element = "//div[@class='message-error validation-summary-errors']"
 
     def __init__(self,driver):
         self.driver = driver
@@ -23,6 +24,9 @@ class LoginPage:
 
     def clickLogout(self):
         self.driver.find_element(By.LINK_TEXT,self.link_logout_linktext).click()
+
+    def invalidLogin_textElement_xpath(self):
+          return self.driver.find_element(By.XPATH,self.errorText_element).text
 
 
 
