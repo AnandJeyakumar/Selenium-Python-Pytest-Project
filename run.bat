@@ -1,1 +1,1 @@
-pytest -s -v -m "sanity and regression" --html=./Report/report.html testCases/ --browser chrome
+pytest -s -v -m "smoke" --html=./Report/report.html testCases/ --browser chrome
