@@ -187,3 +187,44 @@
 12/03/2024 09:59:53 AM: INFO: Logging configuration successful
 12/03/2024 09:59:57 AM: INFO: ****************** Verifying Login Test ***********************
 12/03/2024 10:00:07 AM: ERROR: ******************  Login Test Failed ***********************
+12/03/2024 08:40:29 PM: INFO: Logging configuration successful
+12/03/2024 08:40:33 PM: INFO: Inside Test login homepage title
+12/03/2024 08:40:33 PM: INFO: *********** Test_001_login **************
+12/03/2024 08:40:33 PM: INFO: ******************Verifying Home Page Title***********************
+12/03/2024 08:41:14 PM: INFO: ***************** Home Page Title is Passed ***********************
+12/03/2024 08:41:17 PM: INFO: ****************** Verifying Login Test ***********************
+12/03/2024 09:01:54 PM: INFO: Logging configuration successful
+12/03/2024 09:01:54 PM: INFO: Logging configuration successful
+12/03/2024 09:01:54 PM: INFO: Logging configuration successful
+12/03/2024 09:01:55 PM: INFO: Logging configuration successful
+12/03/2024 09:01:55 PM: INFO: Logging configuration successful
+12/03/2024 09:04:01 PM: INFO: Logging configuration successful
+12/03/2024 09:04:01 PM: INFO: Logging configuration successful
+12/03/2024 09:04:01 PM: INFO: Logging configuration successful
+12/03/2024 09:04:01 PM: INFO: Logging configuration successful
+12/03/2024 09:04:01 PM: INFO: Logging configuration successful
+12/03/2024 09:05:06 PM: INFO: Logging configuration successful
+12/03/2024 09:05:06 PM: INFO: Logging configuration successful
+12/03/2024 09:05:06 PM: INFO: Logging configuration successful
+12/03/2024 09:05:07 PM: INFO: Logging configuration successful
+12/03/2024 09:05:07 PM: INFO: Logging configuration successful
+12/03/2024 09:06:41 PM: INFO: Logging configuration successful
+12/03/2024 09:06:41 PM: INFO: Logging configuration successful
+12/03/2024 09:06:41 PM: INFO: Logging configuration successful
+12/03/2024 09:06:42 PM: INFO: Logging configuration successful
+12/03/2024 09:06:42 PM: INFO: Logging configuration successful
+12/03/2024 09:06:42 PM: INFO: Logging configuration successful
+12/03/2024 09:06:57 PM: INFO: ********* Test_003_AddCustomer ******** 
+12/03/2024 09:07:03 PM: INFO: ******** Login Successfull*****
+12/03/2024 09:07:03 PM: INFO: ******** Started Add Customer Flow *****
+12/03/2024 09:07:09 PM: INFO: ****************** Verifying Login Test ***********************
+12/03/2024 09:07:19 PM: ERROR: ******************  Login Test Failed ***********************
+12/03/2024 09:09:18 PM: INFO: Logging configuration successful
+12/03/2024 09:09:18 PM: INFO: Logging configuration successful
+12/03/2024 09:09:18 PM: INFO: Logging configuration successful
+12/03/2024 09:09:19 PM: INFO: Logging configuration successful
+12/03/2024 09:09:19 PM: INFO: Logging configuration successful
+12/03/2024 09:09:19 PM: INFO: Logging configuration successful
+12/03/2024 09:09:21 PM: INFO: ***************** Test_01_Admin_Login ***********************
+12/03/2024 09:09:21 PM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/03/2024 09:09:23 PM: INFO: ***************** Home Page Title is Passed ***********************

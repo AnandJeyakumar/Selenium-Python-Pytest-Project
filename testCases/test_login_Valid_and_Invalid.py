@@ -17,7 +17,7 @@ class Test_01_Admin_Login:
     invalidUserName = ReadConfig.invalidemail()
     loggerValue=LogGen.loggen()
 
-    @pytest.mark.sanity
+    @pytest.mark.smoke
     def test_title_verification(self,setup):
         self.loggerValue.info("***************** Test_01_Admin_Login ***********************")
         self.loggerValue.info("***************** Verification of test_title_verification Started ***********************")

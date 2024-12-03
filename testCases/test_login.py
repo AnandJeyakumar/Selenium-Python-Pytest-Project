@@ -35,6 +35,7 @@ class Test_001_login:
 
     @pytest.mark.sanity
     @pytest.mark.regression
+
     def test_login(self, setup):
 
         self.loggerValue.info("****************** Verifying Login Test ***********************")
