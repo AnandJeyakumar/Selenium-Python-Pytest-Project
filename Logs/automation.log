@@ -1,0 +1,189 @@
+12/01/2024 12:10:56 PM: INFO: Logging configuration successful
+12/01/2024 12:10:59 PM: INFO: ***************** Test_01_Admin_Login ***********************
+12/01/2024 12:10:59 PM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/01/2024 12:11:41 PM: INFO: ***************** Home Page Title is Passed ***********************
+12/01/2024 12:11:42 PM: ERROR: ***************** Verification of test_valid_admin_login Started ***********************
+12/01/2024 12:11:55 PM: ERROR: ***************** Verification of loginPageTitle is Failed ***********************
+12/01/2024 12:25:27 PM: INFO: Logging configuration successful
+12/01/2024 12:25:34 PM: INFO: ***************** Test_01_Admin_Login ***********************
+12/01/2024 12:25:34 PM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/01/2024 12:25:37 PM: INFO: ***************** Home Page Title is Passed ***********************
+12/01/2024 12:25:43 PM: INFO: ***************** Verification of test_valid_admin_login Started ***********************
+12/01/2024 12:25:54 PM: ERROR: ***************** Verification of loginPageTitle is Failed ***********************
+12/01/2024 12:26:02 PM: INFO: ***************** Verification of test_invalid_admin_login Started ***********************
+12/01/2024 12:26:24 PM: INFO: Logging configuration successful
+12/01/2024 12:26:25 PM: INFO: ***************** Test_01_Admin_Login ***********************
+12/01/2024 12:26:25 PM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/01/2024 12:26:28 PM: INFO: ***************** Home Page Title is Passed ***********************
+12/01/2024 12:26:31 PM: INFO: ***************** Verification of test_valid_admin_login Started ***********************
+12/01/2024 12:27:24 PM: INFO: ***************** Verification of loginPageTitle is Passed ***********************
+12/01/2024 12:27:27 PM: INFO: ***************** Verification of test_invalid_admin_login Started ***********************
+12/01/2024 12:29:16 PM: INFO: Logging configuration successful
+12/01/2024 12:29:16 PM: INFO: Logging configuration successful
+12/01/2024 12:29:16 PM: INFO: Logging configuration successful
+12/01/2024 12:29:17 PM: INFO: ***************** Test_01_Admin_Login ***********************
+12/01/2024 12:29:17 PM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/01/2024 12:29:19 PM: INFO: ***************** Verification of test_valid_admin_login Started ***********************
+12/01/2024 12:29:20 PM: INFO: ***************** Verification of test_invalid_admin_login Started ***********************
+12/01/2024 12:29:40 PM: INFO: ***************** Verification of loginPageTitle is Passed ***********************
+12/01/2024 12:30:06 PM: INFO: Logging configuration successful
+12/01/2024 12:30:07 PM: INFO: Logging configuration successful
+12/01/2024 12:30:07 PM: INFO: Logging configuration successful
+12/01/2024 12:30:08 PM: INFO: ***************** Verification of test_valid_admin_login Started ***********************
+12/01/2024 12:30:10 PM: INFO: ***************** Verification of test_invalid_admin_login Started ***********************
+12/01/2024 12:30:10 PM: INFO: ***************** Test_01_Admin_Login ***********************
+12/01/2024 12:30:10 PM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/01/2024 12:30:13 PM: INFO: ***************** Home Page Title is Passed ***********************
+12/01/2024 12:30:56 PM: INFO: Logging configuration successful
+12/01/2024 12:30:56 PM: INFO: Logging configuration successful
+12/01/2024 12:30:56 PM: INFO: Logging configuration successful
+12/01/2024 12:30:58 PM: INFO: ***************** Verification of test_invalid_admin_login Started ***********************
+12/01/2024 12:30:59 PM: INFO: ***************** Test_01_Admin_Login ***********************
+12/01/2024 12:30:59 PM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/01/2024 12:30:59 PM: INFO: ***************** Verification of test_valid_admin_login Started ***********************
+12/01/2024 12:31:41 PM: INFO: ***************** Home Page Title is Passed ***********************
+12/01/2024 12:32:08 PM: ERROR: ***************** Verification of loginPageTitle is Failed ***********************
+12/01/2024 12:36:20 PM: INFO: Logging configuration successful
+12/01/2024 12:36:20 PM: INFO: Logging configuration successful
+12/01/2024 12:36:21 PM: INFO: Logging configuration successful
+12/01/2024 12:36:22 PM: INFO: ***************** Test_01_Admin_Login ***********************
+12/01/2024 12:36:22 PM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/01/2024 12:36:24 PM: INFO: ***************** Verification of test_invalid_admin_login Started ***********************
+12/01/2024 12:36:24 PM: INFO: ***************** Verification of test_valid_admin_login Started ***********************
+12/01/2024 12:36:31 PM: INFO: ***************** Home Page Title is Passed ***********************
+12/01/2024 12:36:42 PM: INFO: ***************** Verification of loginPageTitle is Passed ***********************
+12/01/2024 12:40:52 PM: INFO: Logging configuration successful
+12/01/2024 12:40:52 PM: INFO: Logging configuration successful
+12/01/2024 12:40:52 PM: INFO: Logging configuration successful
+12/01/2024 12:40:54 PM: INFO: ***************** Test_01_Admin_Login ***********************
+12/01/2024 12:40:54 PM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/01/2024 12:40:56 PM: INFO: ***************** Verification of test_valid_admin_login Started ***********************
+12/01/2024 12:40:56 PM: INFO: ***************** Verification of test_invalid_admin_login Started ***********************
+12/01/2024 12:41:03 PM: INFO: ***************** Home Page Title is Passed ***********************
+12/01/2024 12:41:09 PM: INFO: ***************** Verification of loginPageTitle is Passed ***********************
+12/01/2024 12:48:11 PM: INFO: Logging configuration successful
+12/01/2024 12:48:11 PM: INFO: Logging configuration successful
+12/01/2024 12:48:11 PM: INFO: Logging configuration successful
+12/01/2024 12:48:13 PM: INFO: ***************** Test_01_Admin_Login ***********************
+12/01/2024 12:48:13 PM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/01/2024 12:48:15 PM: INFO: ***************** Verification of test_valid_admin_login Started ***********************
+12/01/2024 12:48:15 PM: INFO: ***************** Verification of test_invalid_admin_login Started ***********************
+12/01/2024 12:48:15 PM: INFO: ***************** Home Page Title is Passed ***********************
+12/01/2024 12:48:33 PM: INFO: ***************** Verification of loginPageTitle is Passed ***********************
+12/01/2024 01:03:03 PM: INFO: Logging configuration successful
+12/01/2024 01:03:03 PM: INFO: Logging configuration successful
+12/01/2024 01:03:03 PM: INFO: Logging configuration successful
+12/01/2024 01:03:05 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:03:05 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:03:44 PM: INFO: ****Passed******
+12/01/2024 01:11:46 PM: INFO: Logging configuration successful
+12/01/2024 01:11:49 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:11:49 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:12:16 PM: INFO: Logging configuration successful
+12/01/2024 01:12:18 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:12:18 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:12:34 PM: INFO: ****Passed******
+12/01/2024 01:13:07 PM: INFO: Logging configuration successful
+12/01/2024 01:13:09 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:13:09 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:13:39 PM: INFO: Logging configuration successful
+12/01/2024 01:13:39 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:13:39 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:14:56 PM: INFO: Logging configuration successful
+12/01/2024 01:14:58 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:14:58 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:18:02 PM: INFO: Logging configuration successful
+12/01/2024 01:18:03 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:18:03 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:18:18 PM: INFO: ****Passed******
+12/01/2024 01:18:41 PM: INFO: Logging configuration successful
+12/01/2024 01:18:42 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:18:42 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:18:56 PM: ERROR: ****Failed*****
+12/01/2024 01:19:49 PM: INFO: Logging configuration successful
+12/01/2024 01:19:50 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:19:50 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:20:29 PM: ERROR: ****Failed*****
+12/01/2024 01:20:47 PM: INFO: Logging configuration successful
+12/01/2024 01:20:49 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:20:49 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:21:10 PM: INFO: ****Passed******
+12/01/2024 01:21:44 PM: INFO: Logging configuration successful
+12/01/2024 01:21:45 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:21:45 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:22:42 PM: ERROR: ****Failed*****
+12/01/2024 01:24:57 PM: INFO: Logging configuration successful
+12/01/2024 01:24:58 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:24:58 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:26:02 PM: INFO: Logging configuration successful
+12/01/2024 01:26:03 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:26:03 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:26:14 PM: ERROR: ****Failed*****
+12/01/2024 01:26:31 PM: INFO: Logging configuration successful
+12/01/2024 01:26:33 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:26:33 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:27:10 PM: INFO: Logging configuration successful
+12/01/2024 01:27:39 PM: INFO: Logging configuration successful
+12/01/2024 01:27:46 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:27:46 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:28:01 PM: INFO: ****Passed******
+12/01/2024 01:29:58 PM: INFO: Logging configuration successful
+12/01/2024 01:30:17 PM: INFO: Logging configuration successful
+12/01/2024 01:30:23 PM: INFO: ****************** Test_002_DDT_login ***********************
+12/01/2024 01:30:23 PM: INFO: ****************** Verifying Login DDT Test ***********************
+12/01/2024 01:30:50 PM: INFO: ****Passed******
+12/02/2024 07:44:32 PM: INFO: Logging configuration successful
+12/02/2024 07:44:44 PM: INFO: ********* Test_003_AddCustomer ******** 
+12/02/2024 07:44:49 PM: INFO: ******** Login Successfull*****
+12/02/2024 07:44:49 PM: INFO: ******** Started Add Customer Flow *****
+12/03/2024 09:50:56 AM: INFO: Logging configuration successful
+12/03/2024 09:50:56 AM: INFO: Logging configuration successful
+12/03/2024 09:50:56 AM: INFO: Logging configuration successful
+12/03/2024 09:50:57 AM: INFO: Logging configuration successful
+12/03/2024 09:50:57 AM: INFO: Logging configuration successful
+12/03/2024 09:50:57 AM: INFO: Logging configuration successful
+12/03/2024 09:51:10 AM: INFO: ********* Test_003_AddCustomer ******** 
+12/03/2024 09:51:16 AM: INFO: ******** Login Successfull*****
+12/03/2024 09:51:16 AM: INFO: ******** Started Add Customer Flow *****
+12/03/2024 09:51:28 AM: INFO: ****************** Verifying Login Test ***********************
+12/03/2024 09:51:37 AM: ERROR: ******************  Login Test Failed ***********************
+12/03/2024 09:51:48 AM: INFO: ***************** Test_01_Admin_Login ***********************
+12/03/2024 09:51:48 AM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/03/2024 09:51:53 AM: INFO: ***************** Home Page Title is Passed ***********************
+12/03/2024 09:52:05 AM: INFO: ***************** Verification of test_invalid_admin_login Started ***********************
+12/03/2024 09:54:22 AM: INFO: Logging configuration successful
+12/03/2024 09:54:22 AM: INFO: Logging configuration successful
+12/03/2024 09:54:22 AM: INFO: Logging configuration successful
+12/03/2024 09:54:23 AM: INFO: Logging configuration successful
+12/03/2024 09:54:23 AM: INFO: Logging configuration successful
+12/03/2024 09:54:23 AM: INFO: Logging configuration successful
+12/03/2024 09:54:39 AM: INFO: ****************** Verifying Login Test ***********************
+12/03/2024 09:54:53 AM: ERROR: ******************  Login Test Failed ***********************
+12/03/2024 09:56:58 AM: INFO: Logging configuration successful
+12/03/2024 09:56:58 AM: INFO: Logging configuration successful
+12/03/2024 09:56:58 AM: INFO: Logging configuration successful
+12/03/2024 09:56:59 AM: INFO: Logging configuration successful
+12/03/2024 09:56:59 AM: INFO: Logging configuration successful
+12/03/2024 09:56:59 AM: INFO: Logging configuration successful
+12/03/2024 09:57:07 AM: INFO: ****************** Verifying Login Test ***********************
+12/03/2024 09:57:20 AM: INFO: ******************  Login Test Passed ***********************
+12/03/2024 09:57:25 AM: INFO: ***************** Test_01_Admin_Login ***********************
+12/03/2024 09:57:25 AM: INFO: ***************** Verification of test_title_verification Started ***********************
+12/03/2024 09:57:27 AM: INFO: ***************** Home Page Title is Passed ***********************
+12/03/2024 09:57:31 AM: INFO: ***************** Verification of test_invalid_admin_login Started ***********************
+12/03/2024 09:58:04 AM: INFO: Logging configuration successful
+12/03/2024 09:58:04 AM: INFO: Logging configuration successful
+12/03/2024 09:58:04 AM: INFO: Logging configuration successful
+12/03/2024 09:58:04 AM: INFO: Logging configuration successful
+12/03/2024 09:58:04 AM: INFO: Logging configuration successful
+12/03/2024 09:58:04 AM: INFO: Logging configuration successful
+12/03/2024 09:58:07 AM: INFO: ****************** Verifying Login Test ***********************
+12/03/2024 09:58:13 AM: ERROR: ******************  Login Test Failed ***********************
+12/03/2024 09:59:52 AM: INFO: Logging configuration successful
+12/03/2024 09:59:52 AM: INFO: Logging configuration successful
+12/03/2024 09:59:52 AM: INFO: Logging configuration successful
+12/03/2024 09:59:53 AM: INFO: Logging configuration successful
+12/03/2024 09:59:53 AM: INFO: Logging configuration successful
+12/03/2024 09:59:53 AM: INFO: Logging configuration successful
+12/03/2024 09:59:57 AM: INFO: ****************** Verifying Login Test ***********************
+12/03/2024 10:00:07 AM: ERROR: ******************  Login Test Failed ***********************

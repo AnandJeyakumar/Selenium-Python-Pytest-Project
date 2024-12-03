@@ -17,7 +17,7 @@ class Test_003_AddCustomer:
     username= ReadConfig.getUserEmail()
     password = ReadConfig.getpassword()
     logger = LogGen.loggen()
-    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_addCustomer(self,setup):
         self.logger.info("********* Test_003_AddCustomer ******** ")
         self.driver = setup

@@ -19,7 +19,10 @@ class ReadConfig:
         password = config.get("common info","password")
         return password
 
-
+    @staticmethod
+    def invalidemail():
+        invalidEmail = config.get("common info", "invalidUserName")
+        return invalidEmail
 
 
 
