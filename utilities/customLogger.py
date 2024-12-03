@@ -6,7 +6,8 @@ class LogGen:
     def loggen():
         logging.basicConfig(filename="C:\\python-selenium\\nopcommerceApp\\Logs\\automation.log",
                             format='%(asctime)s: %(levelname)s: %(message)s',
-                            datefmt='%m/%d/%Y %I:%M:%S %p')
+                            datefmt='%m/%d/%Y %I:%M:%S %p',
+                            force=True)
         loggerValue = logging.getLogger()
         loggerValue.setLevel(logging.INFO)
         loggerValue.info('Logging configuration successful')
